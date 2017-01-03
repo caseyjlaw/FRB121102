@@ -6,7 +6,7 @@ This repository contains computational (Jupyter) notebooks with reproduction ana
 
 The notebooks here present the latest snapshot of the analysis presented in and in support of our publications. They can be viewed with the Jupyter notebook viewer or directly on github. To reproduce (and improve!) the analysis, follow the steps below.
 
-![cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png]
+![First interferometric localization](cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png)
 
 ## Requirements
 
