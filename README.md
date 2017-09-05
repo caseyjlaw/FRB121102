@@ -2,7 +2,7 @@
 
 ## Fast radio interferometric imaging with rtpipe
 
-This repository contains computational (Jupyter) notebooks with reproduction analysis for the manuscript "The direct localization of a fast radio burst and its host" (http://dx.doi.org/10.1038/nature20797) and related publications. The associated data consist of visibilities and calibration files from the Very Large Array for nine radio bursts from the repeating Fast Radio Burst FRB 121102. The first burst captured, on 23 Augsut 2016, is shown below.
+This repository contains computational (Jupyter) notebooks with reproduction analysis for the manuscript "The direct localization of a fast radio burst and its host" (http://dx.doi.org/10.1038/nature20797) and related publications. The associated data consist of visibilities and calibration files from the Very Large Array for nine radio bursts from the repeating Fast Radio Burst FRB 121102. The first burst captured, on 23 August 2016, is shown below.
 
 ![First interferometric localization](cands_16A-459_TEST_1hr.57623.72670021991_sc6-seg163-i95-dm4-dt0.png)
 
