@@ -8,6 +8,7 @@ This repository contains computational (Jupyter) notebooks with reproduction ana
 
 The notebooks here present the latest snapshot of the analysis presented in and in support of our publications. They can be viewed with the Jupyter notebook viewer or directly on github. To reproduce (and improve!) the analysis, follow the steps below.
 
+Cite this repository by referencing the data set on dataverse at [doi:10.7910/DVN/ZKESD4](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZKESD4).
 
 ## Requirements
 
